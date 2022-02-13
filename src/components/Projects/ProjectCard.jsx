@@ -11,14 +11,14 @@ const ProjectCard = ({
         <div className="project-card">
             <div className="image-container">
                 <a href={projectUrl} className="project-external-link">
-                    <img src={imageUrl} alt="project" className="project-image" />
+                    <img src={imageUrl} alt="project" target="_blank" className="project-image" />
                 </a>
             </div>
 
             <div className="project-details-container">
                 <h2 className="project-heading">{projectName}</h2>
                 <p className="project-details">{projectDescription}</p>
-                <a href={projectUrl} className="project-yt-link">Click Here!</a>
+                <a href={projectUrl} target="_blank" className="project-yt-link">Click Here!</a>
             </div>
         </div>
     );
