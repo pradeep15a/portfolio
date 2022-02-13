@@ -10,8 +10,8 @@ const ProjectCard = ({
     return (  
         <div className="project-card">
             <div className="image-container">
-                <a href={projectUrl} className="project-external-link">
-                    <img src={imageUrl} alt="project" target="_blank" className="project-image" />
+                <a href={projectUrl} target="_blank" className="project-external-link">
+                    <img src={imageUrl} alt="project"  className="project-image" />
                 </a>
             </div>
 
