@@ -1,42 +1,34 @@
 export const skillList = [
     {
         skillName: 'HTML',
-        skillUrl: 'https://madhavbahl.tech/portfolio-assets/html.png',
+        skillUrl: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg',
     },
     {
         skillName: 'CSS',
-        skillUrl: 'https://madhavbahl.tech/portfolio-assets/css.png',
+        skillUrl: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg',
     },
     {
         skillName: 'JavaScript',
-        skillUrl: 'https://madhavbahl.tech/portfolio-assets/js.png',
+        skillUrl: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg',
     },
     {
         skillName: 'React',
-        skillUrl: 'https://madhavbahl.tech/portfolio-assets/react.png',
+        skillUrl: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg',
     },
     {
-        skillName: 'Redux',
-        skillUrl: 'https://madhavbahl.tech/portfolio-assets/redux.png',
+        skillName: 'Python',
+        skillUrl: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg',
     },
     {
-        skillName: 'NodeJS',
-        skillUrl: 'https://madhavbahl.tech/portfolio-assets/node.png',
+        skillName: 'C',
+        skillUrl: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg',
     },
     {
-        skillName: 'TypeScript',
-        skillUrl: 'https://madhavbahl.tech/portfolio-assets/ts.png',
+        skillName: 'C++',
+        skillUrl: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-line.svg',
     },
     {
         skillName: 'Java',
-        skillUrl: 'https://madhavbahl.tech/portfolio-assets/java.png',
-    },
-    {
-        skillName: 'C#',
-        skillUrl: 'https://madhavbahl.tech/portfolio-assets/cs.png',
-    },
-    {
-        skillName: 'MongoDB',
-        skillUrl: 'https://madhavbahl.tech/portfolio-assets/mongo.png',
+        skillUrl: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg',
     },
 ];

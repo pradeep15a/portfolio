@@ -1,46 +1,37 @@
 export const projectsData = [
     {
-        projectName: 'Name It!',
+        projectName: 'Quiz-App',
         projectDescription:
-            'Do you find it difficult to name your projects or ventures? Fear not! Check out this cool name suggestion application which will help you find the best name for your next project, venture, or startup. Keep building!',
-        imageUrl: 'https://madhavbahl.tech/portfolio-assets/proj1.PNG',
-        videoUrl:
-            'https://www.youtube.com/playlist?list=PLGyA74h_S9NqJvvQ7-l9bUHHS6bMCkgo0',
-        projectUrl: 'http://theleanprogrammer.com/name-it/',
+            'A Quiz App Made with react and API, which will give you a refreshment and increase your IQ power. Which is full and fully responsive and active!!!!',
+        imageUrl: 'https://user-images.githubusercontent.com/80315129/153765741-3464357a-a3ab-460e-b2a1-3f822935d902.png',
+        projectUrl: 'https://quiz-app-pradeep.herokuapp.com/',
     },
     {
-        projectName: 'FlashType',
+        projectName: 'Weather-Forecast',
         projectDescription:
-            'Having a good typing speed will always help you as a developer! Here, I present you the typing speed test application, where you can check your typing speed (in wpm) and share the results with your friends too.',
-        imageUrl: 'https://madhavbahl.tech/portfolio-assets/proj2.PNG',
-        videoUrl:
-            'https://www.youtube.com/playlist?list=PLGyA74h_S9NppHNrzUSjMQbnuHS9jlAcY',
-        projectUrl: 'http://theleanprogrammer.com/flashtype/',
+            'A weather forecasting app made with basic HTML, CSS and JS. It forecasts the weather of all the cities around the world and yeah even you city. Try it yo.',
+        imageUrl: 'https://user-images.githubusercontent.com/80315129/153765762-b592e0ed-a4bc-4062-8bd0-66a6fed6fc94.png',
+        projectUrl: 'http://weather-forecast-pradeep.vercel.app/',
     },
     {
-        projectName: 'Flexbox Cheatsheet',
+        projectName: 'To-Do List',
         projectDescription:
-            'A frontend web developer must know the concepts of CSS Flexbox. So here is a CSS Flexbox cheatsheet, built using CSS Flexbox. Learn the concepts of flexbox by building a cheatsheet which is built using flexbox. Super cool!',
-        imageUrl: 'https://madhavbahl.tech/portfolio-assets/proj3.PNG',
-        videoUrl:
-            'https://www.youtube.com/playlist?list=PLGyA74h_S9NrkKnaIrYeOolru4EakosHY',
-        projectUrl: 'http://theleanprogrammer.com/flex/',
+            'To Do List App made with VanillaJS, responsive and active. It Keeps the to do list of yours even when you refrest the web page.A cool-tool for guys like me. Have a Hifi!',
+        imageUrl: 'https://user-images.githubusercontent.com/80315129/153765769-730d719e-c98a-4a44-a279-3c859d8a549a.png',
+        projectUrl: 'https://todo-list-pradeep.vercel.app/',
     },
     {
-        projectName: 'PokeDex',
+        projectName: 'Covid Tracker',
         projectDescription:
-            "Pokemon was a huge part of our childhood, wasn't it? Talking about pokemon brings back so many memories, but do you remember the details of each pokemon? Probably No! So here I bring you a pokedex to check all pokemons :)",
-        imageUrl: 'https://madhavbahl.tech/portfolio-assets/proj4.PNG',
-        videoUrl:
-            'https://www.youtube.com/playlist?list=PLGyA74h_S9NrjM7mUiSmpKfUntwEcgMB3',
-        projectUrl: 'http://theleanprogrammer.com/pokedex/',
+            "Covid has the rule over the world Right now! To track the stats of Covid 19 this website was made by Me and Anshuman Nehru my mate to GDSC. And this tracker only gives stats of INDIA. :)",
+        imageUrl: 'https://user-images.githubusercontent.com/80315129/153765774-9745a40f-919a-4488-9ab6-26fd5e8c27d7.png',
+        projectUrl: 'https://covid-19-tracker-gdsc.vercel.app/',
     },
     {
         projectName: 'Portfolio Website',
         projectDescription:
             'As a developer/designer, you should definitely have your own portfolio website. There are endless benefits. But, a lot of people feel that it would be tough to make one. So here I bring you a tutorial to make your own website.',
-        imageUrl: 'https://madhavbahl.tech/portfolio-assets/proj5.PNG',
-        videoUrl: 'http://theleanprogrammer.com/aam',
+        imageUrl: 'https://user-images.githubusercontent.com/80315129/153765781-fa7fc76d-d5bc-4bfd-b2d4-790768f7bfa3.png',
         projectUrl: 'http://madhavbahl.tech/portfolio/',
     },
 ];
