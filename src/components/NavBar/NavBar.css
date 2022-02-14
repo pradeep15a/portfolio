@@ -75,5 +75,14 @@
 .active-item::before {
     visibility: visible;
     height: 3px;
+}
 
+@media only screen and (max-width: 640px) {
+    .bm-burger-button
+    {
+        width: 20px;
+        height: 20px;
+        top: 12px;
+        left: 12px;
+    }
 }

@@ -93,3 +93,9 @@
 .btn-red:focus {
     background-color: #c0392b;
 }
+
+@media only screen and (max-width:640px){
+    .modal-btn{
+        padding: 8px 15px;
+    }
+}
