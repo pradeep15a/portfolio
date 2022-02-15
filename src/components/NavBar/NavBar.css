@@ -85,4 +85,11 @@
         top: 12px;
         left: 12px;
     }
+    .menu-item{
+        font-size: 1.7em;
+        width: 103%;
+    }
+    .bm-menu-wrap {
+        max-width: 250px;
+    }
 }

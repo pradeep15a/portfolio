@@ -6,6 +6,7 @@ const ProjectCard = ({
     projectDescription,
     imageUrl,
     projectUrl,
+    repoUrl,
 }) => {
     return (  
         <div className="project-card">
@@ -18,7 +19,8 @@ const ProjectCard = ({
             <div className="project-details-container">
                 <h2 className="project-heading">{projectName}</h2>
                 <p className="project-details">{projectDescription}</p>
-                <a href={projectUrl} target="_blank" className="project-yt-link">Click Here!</a>
+                <a href={ repoUrl } target="_blank" className="project-repo-link">Click Here for Repos!</a>
+                <a href={ projectUrl } target="_blank" className="project-web-link">Click Here for Website!</a>
             </div>
         </div>
     );

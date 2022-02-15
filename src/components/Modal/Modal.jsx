@@ -21,7 +21,7 @@ const Modal = ({closeModal}) => {
                 <div className="lower-section">
                     <a className='modal-btn btn-red' onClick={closeModal}>Close</a>
                     <a href='https://www.linkedin.com/in/pradeep-a-a43187221/' target="_blank" rel='noreferrer' className='modal-btn btn-green'>
-                        Connect nOw!!
+                        Connect Now!!
                     </a>
                 </div>
             </div>
