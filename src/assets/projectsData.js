@@ -47,4 +47,12 @@ export const projectsData = [
         projectUrl: 'https://tic-tac-toe-pradeep.vercel.app/',
         repoUrl: 'https://github.com/pradeep15a/tic-tac-toe-react',
     },
+    {
+        projectName: 'News App',
+        projectDescription: 
+            'A News app made with flutter and API to provide ongoing latest world news in the mobile, chrome or any other browsers. It has two screens which gives thw detailed content of the news selected and provides link to the original article.!',
+        imageUrl: 'https://user-images.githubusercontent.com/80315129/160613754-54800dd4-95de-459d-a344-c3f2ce8f8c8b.png',
+        projectUrl: 'https://github.com/pradeep15a/news-app-flutter',
+        repoUrl: 'https://github.com/pradeep15a/news-app-flutter',
+    }
 ];
