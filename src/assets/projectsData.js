@@ -4,7 +4,7 @@ export const projectsData = [
         projectDescription:
             'A Quiz App Made with react and API, which will give you a refreshment and increase your IQ power. Which is full and fully responsive and active!!!!',
         imageUrl: 'https://user-images.githubusercontent.com/80315129/153765741-3464357a-a3ab-460e-b2a1-3f822935d902.png',
-        projectUrl: 'https://quiz-app-pradeep.herokuapp.com/',
+        projectUrl: 'https://quiz-app-pradeep.vercel.app',
         repoUrl: 'https://github.com/pradeep15a/Quiz-App',
     },
     {
