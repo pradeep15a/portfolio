@@ -31,4 +31,8 @@ export const skillList = [
         skillName: 'Java',
         skillUrl: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg',
     },
+    {
+        skillName: 'Dart',
+        skillUrl: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain-wordmark.svg',
+    },
 ];
