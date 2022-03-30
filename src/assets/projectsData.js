@@ -36,7 +36,7 @@ export const projectsData = [
         projectDescription:
             'As a developer/designer, you should definitely have your own portfolio website. There are endless benefits. But, a lot of people feel that it would be tough to make one. So here I bring you a tutorial to make your own website.',
         imageUrl: 'https://user-images.githubusercontent.com/80315129/153765781-fa7fc76d-d5bc-4bfd-b2d4-790768f7bfa3.png',
-        projectUrl: 'hhttps://portfolio-pradeep.vercel.app/#/',
+        projectUrl: 'https://portfolio-pradeep.vercel.app/#/',
         repoUrl: 'https://github.com/pradeep15a/portfolio',
     },
     {
@@ -50,9 +50,9 @@ export const projectsData = [
     {
         projectName: 'News App',
         projectDescription: 
-            'A News app made with flutter and API to provide ongoing latest world news in the mobile, chrome or any other browsers. It has two screens which gives thw detailed content of the news selected and provides link to the original article.!',
+            'A News app made with flutter and API to provide ongoing latest world news in the mobile, chrome or any other browsers. It has two screens which gives thw detailed content of the news selected and provides link to the original article.! Click on the website link to download the APP!',
         imageUrl: 'https://user-images.githubusercontent.com/80315129/160613754-54800dd4-95de-459d-a344-c3f2ce8f8c8b.png',
-        projectUrl: 'https://github.com/pradeep15a/news-app-flutter',
+        projectUrl: 'https://drive.google.com/drive/folders/1fXVkvKGcUgtwe_ZDdz2T6QtJSAPm7n_v?usp=sharing',
         repoUrl: 'https://github.com/pradeep15a/news-app-flutter',
     }
 ];
