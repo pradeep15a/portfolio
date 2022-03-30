@@ -36,7 +36,7 @@ export const projectsData = [
         projectDescription:
             'As a developer/designer, you should definitely have your own portfolio website. There are endless benefits. But, a lot of people feel that it would be tough to make one. So here I bring you a tutorial to make your own website.',
         imageUrl: 'https://user-images.githubusercontent.com/80315129/153765781-fa7fc76d-d5bc-4bfd-b2d4-790768f7bfa3.png',
-        projectUrl: 'https://my-portfolio-pradeep.herokuapp.com/',
+        projectUrl: 'hhttps://portfolio-pradeep.vercel.app/#/',
         repoUrl: 'https://github.com/pradeep15a/portfolio',
     },
     {
