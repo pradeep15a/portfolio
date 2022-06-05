@@ -16,6 +16,14 @@ export const skillList = [
         skillUrl: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg',
     },
     {
+        skillName: 'Node JS',
+        skillUrl: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg'
+    },
+    {
+        skillName: 'Express JS',
+        skillUrl: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg'
+    },
+    {
         skillName: 'Python',
         skillUrl: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg',
     },
