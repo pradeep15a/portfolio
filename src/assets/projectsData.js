@@ -50,7 +50,7 @@ export const projectsData = [
     {
         projectName: 'News App',
         projectDescription: 
-            'A News app made with flutter and API to provide ongoing latest world news in the mobile, chrome or any other browsers. It has two screens which gives thw detailed content of the news selected and provides link to the original article.! Click on the website link to download the APP!',
+            'A News app made with flutter and API to provide ongoing latest world news in the mobile, chrome or any other browsers. It has two screens which gives thw detailed content of the news selected and provides link to the original article.! That link redirects to the browser externally. Click on the website link to download the APP!',
         imageUrl: 'https://user-images.githubusercontent.com/80315129/160613754-54800dd4-95de-459d-a344-c3f2ce8f8c8b.png',
         projectUrl: 'https://drive.google.com/drive/folders/1fXVkvKGcUgtwe_ZDdz2T6QtJSAPm7n_v?usp=sharing',
         repoUrl: 'https://github.com/pradeep15a/news-app-flutter',
