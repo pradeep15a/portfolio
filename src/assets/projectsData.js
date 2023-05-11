@@ -1,5 +1,12 @@
 export const projectsData = [
     {
+        projectName: 'Organ Transplant System',
+        projectDescription: 'Organ Transplant Management System is a complete full stack application which is useful for an user to donate and procure an organ. Tech stack used in this are HTML and CSS for frontend, Flask(Python) for backend and MySQL as Database System.',
+        imageUrl: '',
+        projectUrl: '',
+        repoUrl: '',
+    },
+    {
         projectName: 'Quiz-App',
         projectDescription:
             'A Quiz App Made with react and API, which will give you a refreshment and increase your IQ power. Which is full and fully responsive and active!!!!',
@@ -16,14 +23,6 @@ export const projectsData = [
         repoUrl: 'https://github.com/pradeep15a/weather-project',
     },
     {
-        projectName: 'To-Do List',
-        projectDescription:
-            'To Do List App made with VanillaJS, responsive and active. It Keeps the to do list of yours even when you refrest the web page.A cool-tool for guys like me. Have a Hifi!',
-        imageUrl: 'https://user-images.githubusercontent.com/80315129/153765769-730d719e-c98a-4a44-a279-3c859d8a549a.png',
-        projectUrl: 'https://todo-list-pradeep.vercel.app/',
-        repoUrl: 'https://github.com/pradeep15a/ToDo-List-Vanilla',
-    },
-    {
         projectName: 'Covid Tracker',
         projectDescription:
             "Covid has the rule over the world Right now! To track the stats of Covid 19 this website was made by Me and Anshuman Nehru my mate to GDSC. And this tracker only gives stats of INDIA. :)",
@@ -38,14 +37,6 @@ export const projectsData = [
         imageUrl: 'https://user-images.githubusercontent.com/80315129/153765781-fa7fc76d-d5bc-4bfd-b2d4-790768f7bfa3.png',
         projectUrl: 'https://portfolio-pradeep.vercel.app/#/',
         repoUrl: 'https://github.com/pradeep15a/portfolio',
-    },
-    {
-        projectName: 'Tic Tac Toe',
-        projectDescription:
-            'A Tic Tac Toe Game Made with react...Gives mind freshness. And mainly cheating cant be done in this lol!!',
-        imageUrl: 'https://user-images.githubusercontent.com/80315129/154110422-fdaa447f-1ffd-48be-a5a5-96201b6e4733.JPG',
-        projectUrl: 'https://tic-tac-toe-pradeep.vercel.app/',
-        repoUrl: 'https://github.com/pradeep15a/tic-tac-toe-react',
     },
     {
         projectName: 'News App',
