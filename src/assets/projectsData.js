@@ -2,7 +2,7 @@ export const projectsData = [
     {
         projectName: 'Organ Transplant System',
         projectDescription: 'Organ Transplant Management System is a complete full stack application which is useful for an user to donate and procure an organ. Tech stack used in this are HTML and CSS for frontend, Flask(Python) for backend and MySQL as Database System.',
-        imageUrl: '',
+        imageUrl: 'https://github.com/pradeep15a/g2c2-web/assets/80315129/6ff85c33-3d89-4e59-90b1-76f1ff4d4dfc',
         projectUrl: '',
         repoUrl: '',
     },
