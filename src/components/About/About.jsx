@@ -10,7 +10,7 @@ const About = () => {
         <div className="section-container">
             <Header
                 heading="About me."
-                details="App Developer | React developer | Full Time Coder | NODE Lover"
+                details="App Developer | MERN Stack developer | NODE Lover"
             />
             
             <div className="about-main">
@@ -28,7 +28,7 @@ const About = () => {
                     {/* Subsection 2 */}
                     <h3 className='about-sub-head'>FrontEnd Developer</h3>
                     <p className="about-details">
-                        A Well mastered Front-End Developer with the latest tech. In Short React Developer.&nbsp;
+                        A flexible Full-Stack Developer with the latest tech.&nbsp;
                         <a href="https://profile-card-pradeep.vercel.app/" target='_blank' className="abount-link-element">
                             My Profile Card
                         </a>
