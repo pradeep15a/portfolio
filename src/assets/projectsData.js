@@ -1,26 +1,18 @@
 export const projectsData = [
     {
+        projectName: 'International Students and Scholars Management',
+        projectDescription:
+            'Built and delivered key full stack features for International Students and Scholars Management at Ellucian, supporting US and Australia workflows and synchronization with respective government regulatory bodies.',
+        imageUrl: 'https://user-images.githubusercontent.com/80315129/153765781-fa7fc76d-d5bc-4bfd-b2d4-790768f7bfa3.png',
+        projectUrl: '',
+        repoUrl: '',
+    },
+    {
         projectName: 'Organ Transplant System',
         projectDescription: 'Organ Transplant Management System is a complete full stack application which is useful for an user to donate and procure an organ. Tech stack used in this are HTML and CSS for frontend, Flask(Python) for backend and MySQL as Database System.',
         imageUrl: 'https://github.com/pradeep15a/g2c2-web/assets/80315129/6ff85c33-3d89-4e59-90b1-76f1ff4d4dfc',
         projectUrl: '',
         repoUrl: '',
-    },
-    {
-        projectName: 'Quiz-App',
-        projectDescription:
-            'A Quiz App Made with react and API, which will give you a refreshment and increase your IQ power. Which is full and fully responsive and active!!!!',
-        imageUrl: 'https://user-images.githubusercontent.com/80315129/153765741-3464357a-a3ab-460e-b2a1-3f822935d902.png',
-        projectUrl: 'https://quiz-app-pradeep.vercel.app',
-        repoUrl: 'https://github.com/pradeep15a/Quiz-App',
-    },
-    {
-        projectName: 'Weather-Forecast',
-        projectDescription:
-            'A weather forecasting app made with basic HTML, CSS and JS. It forecasts the weather of all the cities around the world and yeah even you city. Try it yo.',
-        imageUrl: 'https://user-images.githubusercontent.com/80315129/153765762-b592e0ed-a4bc-4062-8bd0-66a6fed6fc94.png',
-        projectUrl: 'http://weather-forecast-pradeep.vercel.app/',
-        repoUrl: 'https://github.com/pradeep15a/weather-project',
     },
     {
         projectName: 'Covid Tracker',

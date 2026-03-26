@@ -1,5 +1,5 @@
 import React from "react";
-import { HashRouter, Route } from 'react-router-dom'
+import { HashRouter, Route, Routes } from 'react-router-dom'
 import Home from './../Home/Home';
 import About from './../About/About';
 import Projects from './../Projects/Projects';
@@ -18,15 +18,17 @@ const App = () => {
     return (
         <div>
             <HashRouter>
-            <div>
-                <NavBar />
-                    <Route path="/" exact component={ Home } />
-                    <Route path="/about" component={ About} />
-                    <Route path="/projects" component={Projects} />
-                    <Route path="/skills" component={Skills} />
-                    <Route path="/contact" component={Contact} />
-                <GoHome />
-            </div>
+                <div>
+                    <NavBar />
+                    <Routes>
+                        <Route path="/" element={<Home />} />
+                        <Route path="/about" element={<About />} />
+                        <Route path="/projects" element={<Projects />} />
+                        <Route path="/skills" element={<Skills />} />
+                        <Route path="/contact" element={<Contact />} />
+                    </Routes>
+                    <GoHome />
+                </div>
             </HashRouter>
         </div>
     );

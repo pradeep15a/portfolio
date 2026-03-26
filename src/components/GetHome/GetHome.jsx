@@ -1,13 +1,13 @@
 import React, { Component } from 'react';
-import { withRouter } from 'react-router-dom';
+import { useLocation, useNavigate } from 'react-router-dom';
 import homeIconWhite from './../../assets/home_white.png';
 import homeIconBlack from './../../assets/home_black.png';
 import './GetHome.css';
 
 class GoHome extends Component {
     navigateToHome = () => {
-        const { history } = this.props;
-        history.push('/');
+        const { navigate } = this.props;
+        navigate('/');
     }
 
     
@@ -27,5 +27,12 @@ class GoHome extends Component {
         );
     }
 }
- 
-export default withRouter(GoHome);
+
+const GoHomeWithRouter = (props) => {
+    const location = useLocation();
+    const navigate = useNavigate();
+
+    return <GoHome {...props} location={location} navigate={navigate} />;
+};
+
+export default GoHomeWithRouter;

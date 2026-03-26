@@ -19,15 +19,12 @@ const Projects = () => {
                     projectName,
                     projectDescription,
                     imageUrl,
-                    projectUrl,
-                    repoUrl,
                 }) => {
                        return <ProjectCard 
+                                key={projectName}
                                 projectName={projectName}
                                 projectDescription={projectDescription}
-                                projectUrl={projectUrl}
                                 imageUrl={imageUrl}
-                                repoUrl={repoUrl} 
                                />
                    }) 
                 }

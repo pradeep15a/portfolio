@@ -70,6 +70,7 @@
     transition: background-color 0.3s;
     color: #ecfef1;
     text-decoration: none;
+    font-size: 1em;
 }
 
 .modal-btn:hover {

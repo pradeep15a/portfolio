@@ -10,38 +10,33 @@ const About = () => {
         <div className="section-container">
             <Header
                 heading="About me."
-                details="App Developer | MERN Stack developer | NODE Lover"
+                details="Full Stack Engineer | Agile Delivery | Building useful products with clean execution"
             />
             
             <div className="about-main">
                 <div className="about-main-left">
                     {/* Subsection 1 */}
-                    <h3 className='about-sub-head'>Student</h3>
+                    <h3 className='about-sub-head'>Industry Journey</h3>
                     <p className="about-details">
-                        Currently studying in University Vishveshvaraya College Of Engineering,
-                        Bangalore.&nbsp;
-                        <a href="https://g.page/uvce-karnataka?share" target='_blank' className="abount-link-element">
-                            Location here.
-                        </a>
+                        Two years of industry experience focused on production-grade software for higher
+                        education, balancing speed, quality, and long-term maintainability.
                     </p>
 
                     {/* Subsection 2 */}
-                    <h3 className='about-sub-head'>FrontEnd Developer</h3>
+                    <h3 className='about-sub-head'>Tech Craft</h3>
                     <p className="about-details">
-                        A flexible Full-Stack Developer with the latest tech.&nbsp;
-                        <a href="https://profile-card-pradeep.vercel.app/" target='_blank' className="abount-link-element">
-                            My Profile Card
-                        </a>
+                        End-to-end full stack engineering across development, testing, deployment, and
+                        post-release ownership in Agile product environments.
                     </p>
 
                     {/* Subsection 3 */}
-                    <h3 className='about-sub-head'>Mentor</h3>
+                    <h3 className='about-sub-head'>Project Highlights</h3>
                     <p className="about-details">
-                        Teaching is one of my hobby. 
-                        I've mentored to many of my friends and juniors about web development and other 
-                        stuff and also learning things from them. In short I'm a team player!! &nbsp;
-                        <a href="mailto:pradeepashok1122@gmail.com" target='_blank' className="abount-link-element">
-                            Mail me for any other info!
+                        Built key capabilities for International Students and Scholars Management (US and
+                        Australia regulatory sync) and Global Admissions, focused on SaaSifying the initial
+                        admissions portal for scalable delivery.&nbsp;
+                        <a href="https://github.com/pradeep15a" target="_blank" rel="noreferrer" className="abount-link-element">
+                            GitHub Profile
                         </a>
                     </p>
                 </div>

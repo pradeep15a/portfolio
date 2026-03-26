@@ -43,4 +43,24 @@ export const skillList = [
         skillName: 'Dart',
         skillUrl: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain-wordmark.svg',
     },
+    {
+        skillName: 'NestJS',
+        skillUrl: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg',
+    },
+    {
+        skillName: 'Jenkins',
+        skillUrl: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg',
+    },
+    {
+        skillName: 'AWS',
+        skillUrl: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg',
+    },
+    {
+        skillName: 'AWS CDK',
+        skillUrl: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg',
+    },
+    {
+        skillName: 'CI/CD',
+        skillUrl: 'https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg',
+    },
 ];

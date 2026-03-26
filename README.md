@@ -1,14 +1,15 @@
 # Portfolio App 
 
 ## Tech Used
-1. ReactJS
-2. React Router v5.2.0
+1. React 19
+2. React Router DOM v7
 3. React Burger Menu
-4. Full On scratch <b>(No BootStrap)</b> 
+4. Vite
+5. Full On scratch <b>(No BootStrap)</b> 
 
 
 ## Logic Used 
-  Basic React with routes.
+  React app with hash-based routing and reusable section components.
 
 ## Repo Clone :point_down: :hearts:
 &nbsp; To Clone This Repo Use This Command On Your Git Bash Shell

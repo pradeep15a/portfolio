@@ -17,7 +17,7 @@ const Skills = () => {
             <div className="skill-card-container">
                 {
                     skillList.map(({skillName, skillUrl}) => {
-                        return <SkillCard skillName={skillName} skillUrl={skillUrl}/>
+                        return <SkillCard key={skillName} skillName={skillName} skillUrl={skillUrl}/>
                     })
                 }
             </div>
